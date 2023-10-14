@@ -9,7 +9,8 @@ const Cardsdata = [
         deliveryTime:28,
         avgRating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-        costForTwo:250
+        costForTwo:250,
+        promoted:false,
        },
     {
         id: 2,
@@ -21,7 +22,8 @@ const Cardsdata = [
         deliveryTime: 25,
         avgRating: "3.9",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         costForTwo:360   },
+         costForTwo:360,
+        promoted:false,   },
     {
         id: 3,
         name: "La Milano Pizzeria",
@@ -32,7 +34,8 @@ const Cardsdata = [
         deliveryTime: 70,
         avgRating: "4.2",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         costForTwo:360    },
+         costForTwo:360,
+        promoted:true,    },
     {
         id: 4,
         name: "Momoman",
@@ -43,7 +46,8 @@ const Cardsdata = [
         deliveryTime: 70,
         avgRating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         costForTwo:360    },
+         costForTwo:360,
+        promoted:false,    },
     {
         id: 5,
         name: "Jassi De Parathe",
@@ -54,7 +58,8 @@ const Cardsdata = [
         deliveryTime: 210,
         avgRating: "4.0",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         costForTwo:360    },
+         costForTwo:360,
+        promoted:true,    },
     {
         id: 6,
         name: "Anjoy Latenight Meals",
@@ -65,7 +70,8 @@ const Cardsdata = [
         deliveryTime: 100,
         avgRating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         costForTwo:360
+         costForTwo:360,
+         promoted:false,
     },
     {
         id: 7,
@@ -77,7 +83,8 @@ const Cardsdata = [
         deliveryTime: 300,
         avgRating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         costForTwo:360
+         costForTwo:360,
+         promoted:false,
     },
     {
         id: 8,
@@ -89,7 +96,8 @@ const Cardsdata = [
         deliveryTime: 100,
         avgRating: "3.2",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         costForTwo:360
+         costForTwo:360,
+         promoted:false
     },
     {
         id: 9,
@@ -101,7 +109,8 @@ const Cardsdata = [
         deliveryTime: 100,
         avgRating: "3.8",
         arrimg: "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png?output-format=webp",
-         costForTwo:360
+         costForTwo:360,
+         promoted:false,
     },
 ];
 
